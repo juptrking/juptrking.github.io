@@ -127,42 +127,7 @@ h1.site-heading {
 	a:hover {
 		text-decoration: none;
 	}
-	.orange-1 {
-		color: #E84A00;
-	}
-	.orange-2 {
-		color: #C72D00;
-	}
-	.orange-3 {
-		color: #A80000;
-	}
-	.orange-4 {
-		color: #D00000;
-	}
-	.orange-5 {
-		color: #FD1600;
-	}
-	.orange-6 {
-		color: #E72700;
-	}
-	.green-1 {
-		color: #01AB93;
-	}
-	.green-2 {
-		color: #008A89;
-	}
-	.green-3 {
-		color: #00393D;
-	}
-	.green-4 {
-		color: #00463F;
-	}
-	.green-5 {
-		color: #007B7B;
-	}
-	.green-6 {
-		color: #029578;
-	}
+	
 	@media (max-width: $mobile-width) {
 		float: none;
 		margin: 0 0 0.5em;
